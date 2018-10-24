@@ -1,0 +1,2 @@
+Anything passed in the () is called an argument or it is called a parameter when defining a function. Functions do one thing and they do it well.
+When you create a constant variable use uppercase letters.
